@@ -1,0 +1,153 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/style_text_bold"
+            android:paddingBottom="@dimen/txt_padding_bottom"
+            android:text="@string/txt_change_language"
+            android:layout_marginTop="20dp"/>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_old_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@android:drawable/ic_menu_search"
+            app:counterEnabled="true"
+            app:counterMaxLength="40">
+
+            <EditText
+                android:id="@+id/edt_old_password"
+                style="@style/style_edittext"
+                android:drawableStart="@android:drawable/ic_lock_idle_lock"
+                android:hint="@string/txt_Name"
+                android:inputType="textNoSuggestions"
+                android:maxLength="40"
+                android:paddingStart="@dimen/edt_padding_normal"
+                android:paddingTop="@dimen/activity_horizontal_margin"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_new_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:counterEnabled="true"
+            app:counterMaxLength="40">
+
+            <EditText
+                android:id="@+id/edt_new_password"
+                style="@style/style_edittext"
+                android:drawableStart="@android:drawable/ic_lock_idle_lock"
+                android:hint="@string/txt_nationality"
+                android:inputType="textNoSuggestions"
+                android:maxLength="40"
+                android:paddingStart="@dimen/edt_padding_normal" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_confirm_new_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:counterEnabled="true"
+            app:counterMaxLength="50"
+            app:passwordToggleEnabled="true">
+
+            <EditText
+                android:id="@+id/edt_confirm_password"
+                style="@style/style_edittext"
+                android:drawableStart="@android:drawable/ic_lock_idle_lock"
+                android:hint="@string/txt_Email_Id"
+                android:inputType="textNoSuggestions"
+                android:maxLength="50"
+                android:paddingEnd="@dimen/edt_padding_normal"
+                android:paddingStart="@dimen/edt_padding_normal" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_old_password6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@android:drawable/ic_menu_search"
+            app:counterEnabled="true"
+            app:counterMaxLength="40">
+
+            <EditText
+                android:id="@+id/edt_old_password5"
+                style="@style/style_edittext"
+                android:drawableStart="@android:drawable/ic_lock_idle_lock"
+                android:hint="@string/txt_Mobile_No"
+                android:inputType="textNoSuggestions"
+                android:maxLength="40"
+                android:paddingStart="@dimen/edt_padding_normal" />
+
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_new_password4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:counterEnabled="true"
+            app:counterMaxLength="400">
+
+            <EditText
+                android:id="@+id/edt_new_password3"
+                style="@style/style_edittext1"
+                android:hint="@string/txt_Comments"
+                android:inputType="textCapSentences|textNoSuggestions|textMultiLine"
+                android:lines="10"
+                android:lineSpacingExtra="4dp"
+                android:overScrollMode="always"
+                android:scrollbarStyle="insideInset"
+                android:scrollbars="vertical"
+                android:maxLength="400"
+                android:paddingStart="@dimen/edt_padding_normal" />
+        </android.support.design.widget.TextInputLayout>
+
+        <TextView
+            style="@style/style_text_xnormal_match_parent_start_xnormal"
+            android:text="@string/txt_test_appointmnet" />
+
+        <RadioGroup
+            android:id="@+id/radioSex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <RadioButton
+                android:id="@+id/radioMale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_button_yes"
+                android:checked="true" />
+
+            <RadioButton
+                android:id="@+id/radioFemale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_button_no" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btn_submit_change_password"
+            style="@style/style_button_blue"
+            android:drawablePadding="@dimen/edt_padding_normal"
+            android:drawableStart="@android:drawable/ic_menu_save"
+            android:imeOptions="actionNext"
+            android:text="@string/btn_submit" />
+
+    </LinearLayout>
+</ScrollView>

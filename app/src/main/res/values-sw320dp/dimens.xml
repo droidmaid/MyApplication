@@ -1,0 +1,83 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="divider_height">0.5dp</dimen>
+    <dimen name="nav_drawer_width">235dp</dimen>
+
+    <dimen name="rel_height_width">45dp</dimen>
+
+    <dimen name="grid_item_size">96dp</dimen>
+    <dimen name="grid_item_margin">2dp</dimen>
+    <dimen name="grid_item_padding">9dp</dimen>
+    <dimen name="drawer_font_size">20sp</dimen>
+
+    <!--textview Setting-->
+    <dimen name="text_size_xsmall">8sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_xnormal">20sp</dimen>
+    <dimen name="text_size_xxnormal">24sp</dimen>
+
+
+    <!--Margin Set Up-->
+    <dimen name="margin_text_xsmall">2dp</dimen>
+    <dimen name="margin_text_small">4dp</dimen>
+    <dimen name="margin_text_normal">8dp</dimen>
+
+    <dimen name="txt_padding_bottom">15dp</dimen>
+
+
+    <!--Edit Text Height-->
+    <dimen name="edt_margin_normal">16dp</dimen>
+    <dimen name="edt_height_normal">60dp</dimen>
+
+
+    <dimen name="edt_padding_normal">10dp</dimen>
+
+    <!--Button Text Size-->
+    <dimen name="btn_text_size_normal">30sp</dimen>
+    <dimen name="btn_height_normal">45dp</dimen>
+    <dimen name="btn_height_xsmall">45dp</dimen>
+    <dimen name="btn_padding_normal">10dp</dimen>
+
+    <!--Layout Margin and Padding-->
+    <dimen name="layout_margin_normal">5dp</dimen>
+    <dimen name="layout_margin_xnormal">10dp</dimen>
+    <dimen name="layout_margin_xxnormal">30dp</dimen>
+
+    <dimen name="layout_padding_xnormal">10dp</dimen>
+
+    <!--Imageview padding-->
+    <dimen name="img_margin_large">40dp</dimen>
+    <dimen name="img_size_normal">48dp</dimen>
+    <dimen name="img_size_xxnormal">128dp</dimen>
+    <dimen name="img_size_large">128dp</dimen>
+    <dimen name="img_border">3dp</dimen>
+
+
+    <dimen name="margin_normal">15dp</dimen>
+    <dimen name="tv_home_icon_size">60dp</dimen>
+    <dimen name="tv_font_icon_size">30sp</dimen>
+
+
+    <!--change language spinner text margin and padding-->
+    <dimen name="txt_padding_left_holder">16dp</dimen>
+    <dimen name="txt_padding_top_holder">16dp</dimen>
+    <dimen name="txt_padding_right_holder">1dp</dimen>
+    <dimen name="txt_padding_bottom_holder">16dp</dimen>
+
+    <!--button shape_round_corner-->
+
+    <dimen name="button_shape_round_corner_padding_corners">14dp</dimen>
+    <dimen name="button_shape_round_corner_padding_padding">2dp</dimen>
+
+    <!--shape_round_corner-->
+    <dimen name="shape_round_corner_padding_corners">7dp</dimen>
+    <dimen name="shape_round_corner_radius">10dp</dimen>
+    <dimen name="shape_round_corner_stroke">1dp</dimen>
+
+    <!--How It wokrs-->
+    <dimen name="button_height_selected">12dp</dimen>
+    <dimen name="button_height_normal">10dp</dimen>
+
+</resources>

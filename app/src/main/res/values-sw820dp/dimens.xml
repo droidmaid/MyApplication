@@ -1,0 +1,83 @@
+<resources>
+    <!-- SW*320
+    -->
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">24dp</dimen>
+
+
+    <dimen name="divider_height">0.5dp</dimen>
+    <dimen name="nav_drawer_width">235dp</dimen>
+
+    <dimen name="rel_height_width">45dp</dimen>
+
+    <dimen name="grid_item_size">192dp</dimen>
+    <dimen name="grid_item_margin">7dp</dimen>
+    <dimen name="grid_item_padding">24dp</dimen>
+    <dimen name="drawer_font_size">20sp</dimen>
+
+    <!--textview Setting-->
+    <dimen name="text_size_xsmall">24sp</dimen>
+    <dimen name="text_size_normal">40sp</dimen>
+    <dimen name="text_size_xnormal">48sp</dimen>
+    <dimen name="text_size_xxnormal">56sp</dimen>
+
+
+    <!--Margin Set Up-->
+    <dimen name="margin_text_xsmall">4dp</dimen>
+    <dimen name="margin_text_small">8dp</dimen>
+    <dimen name="margin_text_normal">12dp</dimen>
+
+    <dimen name="txt_padding_bottom">45dp</dimen>
+
+    <!--Edit Text Height-->
+    <dimen name="edt_margin_normal">40dp</dimen>
+    <dimen name="edt_height_normal">120dp</dimen>
+
+    <dimen name="edt_padding_normal">30dp</dimen>
+
+    <!--Button Text Size-->
+    <dimen name="btn_text_size_normal">75sp</dimen>
+    <dimen name="btn_height_normal">135dp</dimen>
+    <dimen name="btn_height_xsmall">100dp</dimen>
+
+    <dimen name="btn_padding_normal">50dp</dimen>
+    <!--Layout Margin and Padding-->
+    <dimen name="layout_margin_normal">10dp</dimen>
+    <dimen name="layout_margin_xnormal">20dp</dimen>
+    <dimen name="layout_margin_xxnormal">30dp</dimen>
+
+    <dimen name="layout_padding_xnormal">20dp</dimen>
+
+    <!--Imageview padding-->
+    <dimen name="img_margin_large">40dp</dimen>
+    <dimen name="img_size_normal">96dp</dimen>
+    <dimen name="img_size_xxnormal">256dp</dimen>
+    <dimen name="img_size_large">340dp</dimen>
+    <dimen name="img_border">6dp</dimen>
+
+
+    <dimen name="margin_normal">15dp</dimen>
+    <dimen name="tv_home_icon_size">100dp</dimen>
+    <dimen name="tv_font_icon_size">30sp</dimen>
+
+
+    <!--change language spinner text margin and padding-->
+    <dimen name="txt_padding_left_holder">48dp</dimen>
+    <dimen name="txt_padding_top_holder">32dp</dimen>
+    <dimen name="txt_padding_right_holder">8dp</dimen>
+    <dimen name="txt_padding_bottom_holder">32dp</dimen>
+
+    <!--button shape_round_corner-->
+    <dimen name="button_shape_round_corner_padding_corners">42dp</dimen>
+    <dimen name="button_shape_round_corner_padding_padding">8dp</dimen>
+    <!--shape_round_corner-->
+    <dimen name="shape_round_corner_padding_corners">12dp</dimen>
+    <dimen name="shape_round_corner_radius">24dp</dimen>
+    <dimen name="shape_round_corner_stroke">3dp</dimen>
+
+
+    <!--How It wokrs-->
+    <dimen name="button_height_selected">24dp</dimen>
+    <dimen name="button_height_normal">18dp</dimen>
+
+</resources>

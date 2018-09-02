@@ -1,0 +1,51 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="divider_height">0.5dp</dimen>
+    <dimen name="nav_drawer_width">235dp</dimen>
+
+    <dimen name="rel_height_width">45dp</dimen>
+
+    <dimen name="grid_item_size">96dp</dimen>
+    <dimen name="drawer_font_size">20sp</dimen>
+
+    <!--textview Setting-->
+    <dimen name="text_size_xsmall">8sp</dimen>
+    <dimen name="text_size_normal">25sp</dimen>
+    <dimen name="text_size_xnormal">20sp</dimen>
+    <dimen name="text_size_xxnormal">15sp</dimen>
+
+
+    <!--Edit Text Height-->
+    <!--Button Text Size-->
+    <dimen name="btn_text_size_normal">30sp</dimen>
+
+    <!--Layout Margin and Padding-->
+    <dimen name="layout_margin_normal">5dp</dimen>
+    <dimen name="layout_margin_xnormal">10dp</dimen>
+    <dimen name="layout_margin_xxnormal">30dp</dimen>
+    <dimen name="layout_padding_xnormal">10dp</dimen>
+
+    <!--Imageview padding-->
+    <dimen name="img_margin_large">40dp</dimen>
+    <dimen name="img_size_normal">48dp</dimen>
+    <dimen name="img_size_xxnormal">96dp</dimen>
+    <dimen name="img_size_large">128dp</dimen>
+
+    <!--Margin Set Up-->
+
+    <dimen name="margin_text_small">2dp</dimen>
+    <dimen name="margin_text_normal">5dp</dimen>
+    <dimen name="edt_margin_normal">15dp</dimen>
+
+    <!--EditText Height-->
+    <dimen name="edt_height_normal">60dp</dimen>
+
+    <dimen name="margin_normal">15dp</dimen>
+    <dimen name="tv_home_icon_size">60dp</dimen>
+    <dimen name="tv_font_icon_size">30sp</dimen>
+
+
+</resources>

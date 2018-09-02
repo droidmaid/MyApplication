@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Submit a Form</string>
+    <!--Activity Name-->
+    <string name="act_signin">Sign In</string>
+    <string name="act_forgotpassword">Forgot Password</string>
+    <string name="act_user_profile">Profile</string>
+    <string name="act_change_password">Change Password</string>
+    <!--End Activity Name-->
+
+    <string name="action_settings">Settings</string>
+
+    <!--Start Homepage for Employee-->
+    <string name="homepage_grid_make_complain">Make Complain</string>
+    <string name="homepage_grid_old_complain">Old Complains</string>
+    <string name="homepage_grid_user_manual">User Manual</string>
+    <string name="homepage_grid_change_language">Change Language</string>
+    <string name="homepage_grid_notification">Activity Notifications</string>
+    <string name="homepage_grid_feedback">Feedback Criticism</string>
+    <!--END Homepage for Employee-->
+
+    <string name="username">Enter Employee Id</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="login_failed">Login Success.</string>
+    <string name="username_error">Enter username</string>
+    <string name="password_error">Enter password</string>
+
+
+    <!--not updated all strings files-->
+    <string name="txt_employee_id">Employee Id:</string>
+    <string name="txt_password">Password:</string>
+    <string name="txt_forgot_password">Forgot Password?</string>
+    <!--Forgot String-->
+    <!--<string name="forgot_password">Forgor password ?</string>-->
+    <string name="txt_mobile_no">Mobile No:</string>
+    <string name="txt_iqama_no">Enter Iqama No:</string>
+    <string name="txt_mobile_no_enter">Enter Mobile Number:</string>
+
+
+    <!--User Profile String-->
+    <string name="txt_uprofile_user_name">Development Team Nauss</string>
+    <string name="txt_uprofile_user_designation">Mobile Application Developer</string>
+    <string name="txt_uprofile_user_nationality_d">Saudi Arabia</string>
+    <string name="txt_employee_id_d">1001</string>
+    <string name="txt_mobile_no_d">0591167609</string>
+    <string name="txt_uprofile_user_password_d">******</string>
+    <string name="txt_uprofile_user_work_place"><u>Work Place :</u></string>
+    <string name="txt_uprofile_user_department">Department :</string>
+    <string name="txt_uprofile_user_department_d">Development Team</string>
+    <string name="txt_uprofile_user_module">Section :</string>
+    <string name="txt_uprofile_user_module_d">Mobile</string>
+    <string name="txt_uprofile_logout">Logout</string>
+
+    <!--make a complain String-->
+    <string name="txt_make_complain_issue_title">Issue Title:</string>
+    <string name="txt_make_complain_description">Description:</string>
+    <string name="txt_make_complain_description_hint">Please describe here</string>
+
+    <!--Change Password String-->
+    <string name="txt_Name">Enter Your Name </string>
+    <string name="txt_nationality">Enter your Nationality</string>
+    <string name="txt_Email_Id">Enter Email</string>
+    <string name="txt_Mobile_No">Enter Your Mobile</string>
+    <string name="txt_Company_name">Enter Your Company Name</string>
+    <string name="txt_Comments">Enter Your Comments</string>
+    <string name="radio_button_yes">Yes </string>
+    <string name="radio_button_no">No </string>
+
+    <string name="txt_test_appointmnet">Test Drive Appointment</string>
+    <!--Alert Dialog Messages-->
+
+
+    <!--Alert Dialog Messages-->
+
+
+    <!--Spinner android:prompt-->
+
+    <!--button text String-->
+    <string name="txt_home_btn_eng">English</string>
+    <string name="txt_home_btn_ara">Arabic</string>
+    <string name="txt_home_btn_fran">Francais</string>
+    <string name="btn_text_chl">Apply</string>
+    <string name="btn_text_pager_six">Sign In</string>
+    <string name="btn_make_complain_submit">Submit</string>
+
+    <!--complains Details String-->
+
+
+    <string name="txt_details_reference_id">Reference Id:</string>
+    <string name="txt_details_reference_id_d">$We87dhdh0</string>
+    <string name="txt_details_date">Reference Date:</string>
+    <string name="txt_details_date_d">1-Rajab-1438</string>
+    <string name="txt_details_time">Requested Time:</string>
+    <string name="txt_details_time_d">10.30 pm</string>
+    <string name="txt_details_issue_title_d">Issue in Keyboard</string>
+    <string name="txt_details_description">Description</string>
+    <string name="txt_details_work_status">Work Status:</string>
+    <string name="txt_details_work_status_d">Completed</string>
+    <string name="btn_details_status">Pending</string>
+
+    <!--Button Text-->
+    <string name="btn_send">Sign In</string>
+    <string name="btn_submit">Submit \u0020</string>
+    <string name="btn_happy">Happy</string>
+    <string name="btn_upset">Upset</string>
+    <!--Start Homepage for Employee-->
+
+    <!--Change Language-->
+    <string name="txt_change_language">Submit a Form</string>
+    <!--LogIn-->
+    <string name="login_txt_uni_arabic">جامعة نايف العربية للعلوم الأمنية</string>
+    <string name="login_txt_uni_eng">Naif Arab University For Security Sciences</string>
+
+    <!--Details Page-->
+    <string name="edt_deatils_reference_id">Reference ID:</string>
+    <string name="edt_deatils_request_date">Requested Date:</string>
+    <string name="edt_deatils_request_time">Requested Time:</string>
+    <!--Error Message-->
+    <string name="error_change_password_matching">Warning!! New password and Confirm password must be same</string>
+    <string name="error_old_password">Sorry Old Password should not be empty</string>
+    <string name="error_confirm_password">Sorry Confirm Password should not be empty</string>
+    <string name="error_new_password">Sorry new Password should not be empty</string>
+    <string name="error_password">Sorry Password should not be empty</string>
+    <string name="error_employee_id">Sorry Employee Number should not be empty</string>
+    <string name="error_iqama_id">Sorry Iqama Id should not be empty</string>
+    <string name="error_iqama_id_count_no">Sorry Iqama Id should be 10 digit number</string>
+    <string name="error_mobile_number">Sorry Iqama Id should not be empty</string>
+    <string name="error_mobile_number_count">Sorry Iqama Id should be 10 digit number</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--Menu Drawer-->
+    <string name="lang_dialog_title" translatable="false">مرحبا بكم في NAUSS</string>
+    <string name="lang_dialog_message" translatable="false">الرجاء اختيار لغتك</string>
+    <string name="lang_dialog_option_change" translatable="false">صرف</string>
+    <string name="lang_dialog_option_cancel" translatable="false">إلغاء</string>
+    <string name="language_setting" translatable="false">تغيير اللغة</string>
+
+    <!-- Language select dialog -->
+    <string-array name="lang_select">
+        <item>الإنجليزية</item>
+        <item>العربية</item>
+        <item>اللغة الفرنسية</item>
+    </string-array>
+    <![CDATA[
+    /string>
+
+    ]]><!--Start MainActivity for Employee-->
+    <string name="home_grid_web_portal">NAUSS Web Portal</string>
+    <string name="home_grid_nauss_news">NAUSS News</string>
+    <string name="home_grid_nauss_student">E-services for Student</string>
+    <string name="home_grid_nauss_employee">E-services for Employee</string>
+    <string name="home_grid_nauss_edu_cal">Academic calendar</string>
+    <string name="home_grid_nauss_university_program">University Program</string>
+    <!--END MainActivity for Employee-->
+
+</resources>

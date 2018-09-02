@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="start_color">#222D42</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="list_group_title">#808080</color>
+    <color name="list_item_title">#AAAAAA</color>
+    <color name="group_divider_color">#80CBC4</color>
+    <color name="color_stroke">#000000</color>
+    <color name="color_startColor">#222D42</color>
+    <color name="color_centerColor">#435168</color>
+    <color name="color_endColor">#435168</color>
+</resources>
